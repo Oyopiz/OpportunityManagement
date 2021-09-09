@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".NewAccount">
+    <ImageButton
+        android:layout_width="match_parent"
+        android:layout_gravity="center"
+        android:src="@mipmap/add_btn"
+        android:id="@+id/image_bn"
+        android:layout_height="200dp"
+        />
+<EditText
+    android:layout_width="250dip"
+    android:textColorHint="@color/colorPrimary"
+    android:hint="Company Name"
+    android:layout_marginTop="30dip"
+    android:id="@+id/name"
+    android:layout_gravity="center"
+    android:layout_height="wrap_content"
+    />
+    <EditText
+        android:layout_width="250dip"
+        android:hint="Address"
+        android:layout_marginTop="20dip"
+        android:id="@+id/adress"
+        android:textColorHint="@color/colorPrimary"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        />
+    <EditText
+        android:layout_width="250dip"
+        android:hint="Email"
+        android:textColorHint="@color/colorPrimary"
+        android:layout_marginTop="20dip"
+        android:id="@+id/email"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        />
+    <EditText
+        android:layout_width="250dip"
+        android:textColorHint="@color/colorPrimary"
+        android:hint="Phone"
+        android:layout_marginTop="20dip"
+        android:layout_gravity="center"
+        android:id="@+id/phone"
+        android:layout_height="wrap_content"
+        />
+
+    <Button
+        android:layout_width="150dip"
+        android:textColor="#FFFFFF"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_bg"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dip"
+        android:id="@+id/create"
+        android:text="CREATE ACCOUNT" />
+</LinearLayout>

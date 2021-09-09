@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "835343990688",
+    "firebase_url": "https://newest-43cb9-default-rtdb.firebaseio.com",
+    "project_id": "newest-43cb9",
+    "storage_bucket": "newest-43cb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835343990688:android:9a035ce370183d0b73eec5",
+        "android_client_info": {
+          "package_name": "com.bluemetal.auctionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835343990688-3pt6u8cnfps8d4b4oi85d7f15kr0l4p8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwI7rJjfGXfHwAwTAjfWRNr_Eqj23rFKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835343990688-3pt6u8cnfps8d4b4oi85d7f15kr0l4p8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
