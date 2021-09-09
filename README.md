@@ -7,4 +7,4 @@ Contribute to This repository
 # Home
 ![alt text](https://github.com/Oyopiz/OpportunityManagement/blob/master/Screenshot_20210909-165453.png)
 # Apply for opportunity
-![alt text](https://github.com/Oyopiz/OpportunityManagement/blob/master/Screenshot_20210909-165514.png)
+![alt text](https://github.com/Oyopiz/OpportunityManagement/blob/master/apply.png)
